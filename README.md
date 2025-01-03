@@ -18,7 +18,7 @@
 ![课堂展示40%](https://img.shields.io/badge/课堂展示-40%25-wheat)
 
 ![学时安排](https://img.shields.io/badge/学时安排-gold)
-![理论24](https://img.shields.io/badge/考勤-24-wheat)
+![理论24](https://img.shields.io/badge/理论-24-wheat)
 ![实验8](https://img.shields.io/badge/实验-8-wheat)
 
 > 文 / [Gaster](https://github.com/WDGaster703/)，2025.1
