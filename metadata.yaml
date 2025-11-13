@@ -1,0 +1,64 @@
+ID: "SEIN1040"
+SimilarID: []
+Name: "中国科技史话"
+CourseProperty:
+  Major:
+    - Year: "2024_2025"
+      Name: ["null"]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "秋"
+  CourseType: "任选"
+  CourseID: "SEIN1040"
+  CourseName: "中国科技史话"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时"
+      Percentage: "20"
+    - Name: "实验"
+      Percentage: "40"
+    - Name: "课堂展示"
+      Percentage: "40"
+  CourseHourComposition:
+    - Name: "理论"
+      Hour: "24"
+    - Name: "实验"
+      Hour: "8"
+  Major:
+    - Year: "2023_2024"
+      Name: []
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "春"
+  CourseType: "任选"
+  CourseID: "SEIN1040"
+  CourseName: "中国科技史话"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时"
+      Percentage: "20"
+    - Name: "实验"
+      Percentage: "40"
+    - Name: "课堂展示"
+      Percentage: "40"
+  CourseHourComposition:
+    - Name: "理论"
+      Hour: "24"
+    - Name: "实验"
+      Hour: "8"
